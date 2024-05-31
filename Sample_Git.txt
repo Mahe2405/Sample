@@ -1,2 +1,3 @@
 Hello I am Running a Sample git operation.
-This file is for testinf purpose.
+This file is for testing purpose.
+I'm testing pull and fetch command.
